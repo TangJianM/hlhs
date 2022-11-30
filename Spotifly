@@ -1,5 +1,6 @@
 #Spotifly解锁
 #作者：app2smile
-####################
+#脚本地址：https://raw.githubusercontent.com/TangJianM/chileme/main/Spotifly
+########################################
 hostname = spclient.wg.spotify.com
 ^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ url script-response-body https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js
