@@ -1,6 +1,7 @@
 #自用重写
 #不适于他人使用
 #不包含去除开屏广告计划
+#地址：https://ghproxy.com/https://raw.githubusercontent.com/TangJianM/hlhs/main/ZyCX
 #####################################
 
 hostname = weixin110.qq.com, security.wechat.com, tiebac.baidu.com, -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com,youtubei.googleapis.com, *.xima*.*, *.xmcdn.*, edith.xiaohongshu.com,www.xiaohongshu.com,pages.xiaohongshu.com,referee.xiaohongshu.com, *api.weibo*,sdkapp.uve.weibo.com, www.bbkj.work, wx.wxqqurl.cn, wp3.lobdol.cn, uranus.sharedaka.com, comic.321mh.com, awg.enmonster.com, mp.weixin.qq.com, wx.mygolbs.com, jabi.coding.net, api.bspapp.com, 3dd0be8a-54fe-43ff-a0e7-f670c4f20432.bspapp.com, *.tslt.xyz, g.syshhc.top, c.jxjt888.top, www.laoguikeji.cn, qj.bpojie.com, b.tslt.xyz, m.xgjyouhui.com, www.freeheikeji.cn, xcx.xianbaow.com, *.smkj33.top, *.ddly666.top, hkj178.com, a.jxjt888.top, lysl2020.com, www.i3zh.com, iosoi.cn, jabi.coding.net, jt.jxjt888.top, gjsx.vip, d.syshhc.top, gz.gongzijx.com, tvapp.guilaile.cn, www.benbenfx.xyz, 4thdimension.top, api.bspapp.com, tan.ipnas.ltd, mp.weixin.qq.com, pan.baidu.com, spclient.wg.spotify.com, app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net
